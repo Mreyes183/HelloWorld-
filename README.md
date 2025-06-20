@@ -34,7 +34,7 @@ Welcome to your first step into the world of programming! In this lab, we’ll g
     <img src="https://i.imgur.com/FMvXlnM.png" height="80%" width="80%" alt="Hello World Steps"/>
     <br />
     <br />
-    Recieve Output and with this Congrats on your first Python code!
+    Recieve Output and with this Congrats on your first Python code!: <br/>
     <img src="https://i.imgur.com/dSnsNR6.png" height="80%" width="80%" alt="Hello World Steps"/>
     <br />
     <br />
