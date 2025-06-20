@@ -11,7 +11,7 @@ Welcome to your first step into the world of programming! In this lab, we’ll g
 
 <h2>Enviroments Used</h2>
 
--Replit</b> 
+-Visual Studio Code</b> 
 
 <h2>Program walk-through:</h2>
 
@@ -19,7 +19,7 @@ Welcome to your first step into the world of programming! In this lab, we’ll g
 
 <p align="center">
   First step is to install Python on your system: <br/>
-  <img src="https://imgur.com/UNluvtV.png" height="80%" width=80%" alt="Hello World Steps"/>
+  <img src="https://imgur.com/a/pqO1Azi" height="80%" width=80%" alt="Hello World Steps"/>
   <br />
   <br />
   Type HelloWorld! in terminal: <br/>
