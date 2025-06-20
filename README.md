@@ -18,11 +18,15 @@ Welcome to your first step into the world of programming! In this lab, we’ll g
 
 
 <p align="center">
-  First step is to install Python on your system: <br/>
+  First, step is to install Python on your system: <br/>
   <img src="https://i.imgur.com/nqU5qpb.png" height="80%" width=80%" alt="Hello World Steps"/>
   <br />
   <br />
   Type HelloWorld! in terminal: <br/>
+  Next, we will need a text editor or IDE, I will be using Visual Studio Code: <br/>
+  <img src="https://i.imgur.com/1bYnpot.png" height="80%" width="80%" alt="Hello World Steps"/>
+  <br />
+  <br />
   <img src="https://i.imgur.com/7hBCReJ.png" height="80%" width="80%" alt="Hello World Steps"/>
     <br />
     <br />
